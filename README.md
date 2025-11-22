@@ -111,8 +111,6 @@ inny Docker image
 - `/users/project1/pt01303/` - chyba katalog naszego projektu, potrzebny dostęp
 
 ## źródła
-> Obliczenia wykonano z wykorzystaniem komputerów Centrum Informatycznego Trójmiejskiej Akademickiej Sieci Komputerowej" (Computations were carried out using the computers of Centre of Informatics Tricity Academic Supercomputer & Network).
-
 - https://docs.task.gda.pl/kdm/aplikacje-narzedziowe-i-systemowe/slurm
 - https://docs.task.gda.pl/kdm/poradnik-uzytkownika/pytorch-na-serwerach-gpu/slurm
 - https://docs.task.gda.pl/kdm/poradnik-uzytkownika/pytorch-na-serwerach-gpu/pytorch
@@ -125,3 +123,8 @@ inny Docker image
 - https://docs.task.gda.pl/kdm/poradnik-uzytkownika/przestrzen-dyskowa
 - https://docs.task.gda.pl/kdm/poradnik-uzytkownika/dostep-do-serwerow#Kopiowanie
 
+## oświadczenia
+
+Treść *gpu_check.py* adaptowana z odpowiedzi narzędzia typu GenAI
+
+> Obliczenia wykonano z wykorzystaniem komputerów Centrum Informatycznego Trójmiejskiej Akademickiej Sieci Komputerowej" (Computations were carried out using the computers of Centre of Informatics Tricity Academic Supercomputer & Network).
