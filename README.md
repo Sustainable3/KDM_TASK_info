@@ -27,9 +27,9 @@ Zadania obliczeniowe należy zdefiniować, potem zlecić uruchomienie, na końcu
 
 - `squeue -u $USER` - zadania użytkownika
 
-- `scancel zad`
+- `scancel zad` - usunięcie z kolejki
 
-- `sinfo`
+- `sinfo` - o kolejkach
 
 ### przykład
 
@@ -108,7 +108,7 @@ inny Docker image
 
 - `$CITASK_USER_SCRATCH`
 
-- `/users/project1/pt01303/` - chyba katalog naszego projektu, potrzebny dostęp
+- `/users/project1/pt01299/` - katalog naszego projektu
 
 ## źródła
 - https://docs.task.gda.pl/kdm/aplikacje-narzedziowe-i-systemowe/slurm
